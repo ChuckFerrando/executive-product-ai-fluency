@@ -81,15 +81,6 @@ These capabilities are applied in the **Experimentation Lab**.
 
 ---
 
-## Related Repositories
-
-- Product Leadership Operating System (PLOS) → system-level architecture  
-- Executive Product Mental Models → decision frameworks  
-- Executive Product Experimentation Lab → applied builds and prototypes  
-- Executive Product Signal Center → emerging tools and trends  
-
----
-
 ## Guiding Principle
 
 AI fluency for product leaders is not about technical depth —  
