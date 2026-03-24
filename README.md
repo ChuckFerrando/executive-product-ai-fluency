@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/Status-Active-blue.svg)
+![Type](https://img.shields.io/badge/Type-Capability%20System-purple.svg)
+![Focus](https://img.shields.io/badge/Focus-AI%20for%20Product%20Leadership-darkgreen.svg)
+![Portfolio](https://img.shields.io/badge/Portfolio-Executive%20Product%20Leadership-black.svg)
+
 # Executive Product AI Fluency
 
 ## Purpose
@@ -89,3 +94,31 @@ These capabilities are applied in the **Experimentation Lab**.
 
 AI fluency for product leaders is not about technical depth —  
 it is about **knowing what to use, when to use it, and why it matters**.
+
+---
+
+## License
+
+This repository is licensed under the MIT License.
+
+---
+
+## Design Philosophy
+
+This repository is part of a structured executive product leadership portfolio designed to demonstrate:
+- systems thinking
+- decision quality
+- modern AI fluency
+- applied product execution
+
+Each repository is intended to stand alone while also contributing to a coherent portfolio ecosystem.
+
+---
+
+## Related Repositories
+
+- Product Leadership Operating System (PLOS) → system-level architecture  
+- Executive Product Mental Models → decision frameworks  
+- Executive Product AI Fluency → tools and capabilities  
+- Executive Product Experimentation Lab → applied builds and prototypes  
+- Executive Product Signal Center → curated market intelligence
